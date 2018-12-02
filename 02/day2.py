@@ -86,7 +86,7 @@ def solve_day2_part2(box_ids):
 	
 # solve_day2(["bababc", "abbcde", "abcccd", "aabcdd", "abcdee", "ababab"])
 data_day2 = read_data("data_day2.txt")
-# solve_day2_part1(data_day2)
+solve_day2_part1(data_day2)
 
 solve_day2_part2(data_day2)
 n = cmp_strings("abc", "abc")

@@ -11,7 +11,21 @@ First solve the problem in something I know (e.g. Python) then attempt to solve 
 
 - [Day 1](01) - Python
 
+### Part 1 Solution
+
+ 580
+### Part 2 Solution
+
+ 81972
+
 - [Day 2](02) - Python
+
+### Part 1 Solution
+
+247 x 25 = 6175
+
+### Part 2 Solution
+
 33, 131 Comparing=
 asgwjcmzroedihqoutcylvzinx
 asgwjcmzrkedihqoutcylvzinx
